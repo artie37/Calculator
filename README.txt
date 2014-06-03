@@ -14,4 +14,4 @@ Instructions:
 	After completing an operation, the user can enter just a number to perform the previous operation on the total.
 
 Known Bugs:
-      If an empty string is entered, the program crashes.
+	 If an empty string is entered, the program crashes.
